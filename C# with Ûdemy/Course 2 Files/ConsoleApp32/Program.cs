@@ -6,7 +6,7 @@ namespace ConsoleApp32
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var a = 10;
         }
     }
 }
