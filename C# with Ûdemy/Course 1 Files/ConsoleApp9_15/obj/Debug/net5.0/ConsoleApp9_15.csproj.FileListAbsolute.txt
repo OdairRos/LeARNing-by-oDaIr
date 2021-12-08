@@ -1,0 +1,5 @@
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_15\obj\Debug\net5.0\ConsoleApp9_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_15\obj\Debug\net5.0\ConsoleApp9_15.AssemblyInfoInputs.cache
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_15\obj\Debug\net5.0\ConsoleApp9_15.AssemblyInfo.cs
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_15\obj\Debug\net5.0\ConsoleApp9_15.csproj.CoreCompileInputs.cache
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_15\obj\Debug\net5.0\ConsoleApp9_15.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\bin\Debug\net5.0\ConsoleApp9_18.exe
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\bin\Debug\net5.0\ConsoleApp9_18.deps.json
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\bin\Debug\net5.0\ConsoleApp9_18.runtimeconfig.json
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\bin\Debug\net5.0\ConsoleApp9_18.runtimeconfig.dev.json
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\bin\Debug\net5.0\ConsoleApp9_18.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\bin\Debug\net5.0\ref\ConsoleApp9_18.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\bin\Debug\net5.0\ConsoleApp9_18.pdb
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\obj\Debug\net5.0\ConsoleApp9_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\obj\Debug\net5.0\ConsoleApp9_18.AssemblyInfoInputs.cache
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\obj\Debug\net5.0\ConsoleApp9_18.AssemblyInfo.cs
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\obj\Debug\net5.0\ConsoleApp9_18.csproj.CoreCompileInputs.cache
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\obj\Debug\net5.0\ConsoleApp9_18.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\obj\Debug\net5.0\ref\ConsoleApp9_18.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\obj\Debug\net5.0\ConsoleApp9_18.pdb
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\ConsoleApp1\Course Files\ConsoleApp9_18\obj\Debug\net5.0\ConsoleApp9_18.genruntimeconfig.cache

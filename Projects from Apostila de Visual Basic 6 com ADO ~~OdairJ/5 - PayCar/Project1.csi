@@ -1,0 +1,13 @@
+[History]
+1=#P0#=mb	#P1#=cmdFechar_Click	#P2#=Project1/Form1/cmdFechar_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118143229	#P7#=0	#P8#=3	.
+2=#P0#=mb	#P1#=cmdCalcular_Click	#P2#=Project1/Form1/cmdCalcular_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118142946	#P7#=0	#P8#=-1	.
+3=#P0#=mb	#P1#=Prestacao	#P2#=Project1/Form1/Prestacao	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20211118145553	#P7#=0	#P8#=12	.
+4=#P0#=mb	#P1#=txtMeses_LostFocus	#P2#=Project1/Form1/txtMeses_LostFocus	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118142922	#P7#=0	#P8#=1	.
+5=#P0#=mb	#P1#=txtMeses_Change	#P2#=Project1/Form1/txtMeses_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118134501	#P7#=0	#P8#=0	.
+6=#P0#=mb	#P1#=txtJuros_LostFocus	#P2#=Project1/Form1/txtJuros_LostFocus	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118142909	#P7#=0	#P8#=3	.
+7=#P0#=mb	#P1#=txtEntrada_LostFocus	#P2#=Project1/Form1/txtEntrada_LostFocus	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118142856	#P7#=0	#P8#=9	.
+8=#P0#=mb	#P1#=txtEntrada_Change	#P2#=Project1/Form1/txtEntrada_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118133754	#P7#=0	#P8#=-1	.
+9=#P0#=mb	#P1#=txtValor_LostFocus	#P2#=Project1/Form1/txtValor_LostFocus	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118142849	#P7#=0	#P8#=3	.
+10=#P0#=mb	#P1#=Form_KeyPress	#P2#=Project1/Form1/Form_KeyPress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118142656	#P7#=0	#P8#=1	.
+11=#P0#=mb	#P1#=txtValor_Change	#P2#=Project1/Form1/txtValor_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118115123	#P7#=0	#P8#=0	.
+12=#P0#=mb	#P1#=Form_Load	#P2#=Project1/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118135148	#P7#=0	#P8#=3	.

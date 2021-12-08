@@ -1,0 +1,9 @@
+[History]
+1=#P0#=mb	#P1#=lblResultadoPlaceholder_Click	#P2#=Project1/Form1/lblResultadoPlaceholder_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118082114	#P7#=0	#P8#=0	.
+2=#P0#=mb	#P1#=cmdDividir_Click	#P2#=Project1/Form1/cmdDividir_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118081435	#P7#=0	#P8#=5	.
+3=#P0#=mb	#P1#=cmdSubtrair_Click	#P2#=Project1/Form1/cmdSubtrair_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118082022	#P7#=0	#P8#=7	.
+4=#P0#=mb	#P1#=lblResultado_Click	#P2#=Project1/Form1/lblResultado_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118080837	#P7#=0	#P8#=0	.
+5=#P0#=mb	#P1#=txtNum1_Change	#P2#=Project1/Form1/txtNum1_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118080750	#P7#=0	#P8#=3	.
+6=#P0#=mb	#P1#=cmdSomar_Click	#P2#=Project1/Form1/cmdSomar_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118081415	#P7#=0	#P8#=4	.
+7=#P0#=mb	#P1#=cmdmultiplicar_Click	#P2#=Project1/Form1/cmdmultiplicar_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118081941	#P7#=0	#P8#=0	.
+8=#P0#=mb	#P1#=Form_Load	#P2#=Project1/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211118080622	#P7#=0	#P8#=1	.

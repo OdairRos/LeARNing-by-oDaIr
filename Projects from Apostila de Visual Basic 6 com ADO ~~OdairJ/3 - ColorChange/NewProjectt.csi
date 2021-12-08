@@ -1,0 +1,9 @@
+[History]
+1=#P0#=mb	#P1#=cmdFundoProx_Click	#P2#=Project1/Form1/cmdFundoProx_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211117173728	#P7#=0	#P8#=0	.
+2=#P0#=mb	#P1#=cmdFundoAnt_Click	#P2#=Project1/Form1/cmdFundoAnt_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211117174341	#P7#=0	#P8#=4	.
+3=#P0#=mb	#P1#=cmdTextoProx_Click	#P2#=Project1/Form1/cmdTextoProx_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211117174151	#P7#=0	#P8#=-1	.
+4=#P0#=mb	#P1#=MudaCorTexto	#P2#=Project1/Form1/MudaCorTexto	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20211117175305	#P7#=0	#P8#=61	.
+5=#P0#=mb	#P1#=lblTexto_Change	#P2#=Project1/Form1/lblTexto_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211117165221	#P7#=0	#P8#=1	.
+6=#P0#=mb	#P1#=cmdTextoAnt_Click	#P2#=Project1/Form1/cmdTextoAnt_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211117172706	#P7#=0	#P8#=-1	.
+7=#P0#=mb	#P1#=cmdCancel_Click	#P2#=Project1/Form1/cmdCancel_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211117161839	#P7#=0	#P8#=0	.
+8=#P0#=mb	#P1#=Form_Load	#P2#=Project1/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20211117173348	#P7#=-2147483640	#P8#=-1	.
