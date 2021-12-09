@@ -1,0 +1,16 @@
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\bin\Debug\net5.0\ConsoleApp34.exe
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\bin\Debug\net5.0\ConsoleApp34.deps.json
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\bin\Debug\net5.0\ConsoleApp34.runtimeconfig.json
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\bin\Debug\net5.0\ConsoleApp34.runtimeconfig.dev.json
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\bin\Debug\net5.0\ConsoleApp34.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\bin\Debug\net5.0\ref\ConsoleApp34.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\bin\Debug\net5.0\ConsoleApp34.pdb
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\obj\Debug\net5.0\ConsoleApp34.csproj.AssemblyReference.cache
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\obj\Debug\net5.0\ConsoleApp34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\obj\Debug\net5.0\ConsoleApp34.AssemblyInfoInputs.cache
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\obj\Debug\net5.0\ConsoleApp34.AssemblyInfo.cs
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\obj\Debug\net5.0\ConsoleApp34.csproj.CoreCompileInputs.cache
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\obj\Debug\net5.0\ConsoleApp34.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\obj\Debug\net5.0\ref\ConsoleApp34.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\obj\Debug\net5.0\ConsoleApp34.pdb
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp34\obj\Debug\net5.0\ConsoleApp34.genruntimeconfig.cache
