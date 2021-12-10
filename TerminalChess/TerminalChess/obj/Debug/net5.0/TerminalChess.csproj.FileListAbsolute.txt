@@ -1,0 +1,16 @@
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\bin\Debug\net5.0\TerminalChess.exe
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\bin\Debug\net5.0\TerminalChess.deps.json
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\bin\Debug\net5.0\TerminalChess.runtimeconfig.json
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\bin\Debug\net5.0\TerminalChess.runtimeconfig.dev.json
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\bin\Debug\net5.0\TerminalChess.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\bin\Debug\net5.0\ref\TerminalChess.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\bin\Debug\net5.0\TerminalChess.pdb
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\obj\Debug\net5.0\TerminalChess.csproj.AssemblyReference.cache
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\obj\Debug\net5.0\TerminalChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\obj\Debug\net5.0\TerminalChess.AssemblyInfoInputs.cache
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\obj\Debug\net5.0\TerminalChess.AssemblyInfo.cs
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\obj\Debug\net5.0\TerminalChess.csproj.CoreCompileInputs.cache
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\obj\Debug\net5.0\TerminalChess.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\obj\Debug\net5.0\ref\TerminalChess.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\obj\Debug\net5.0\TerminalChess.pdb
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\TerminalChess\TerminalChess\obj\Debug\net5.0\TerminalChess.genruntimeconfig.cache
