@@ -1,12 +1,18 @@
 ﻿using System;
+using tabuleiro;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TerminalChess.Tabuleiro
+namespace tabuleiro
 {
-    class TabuleiroException
+    class TabuleiroException : Exception
     {
+
+        public TabuleiroException(string msg) : base(msg)
+        {
+
+        }
     }
 }

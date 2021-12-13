@@ -8,7 +8,7 @@ namespace tabuleiro
 {
     enum Cor
     {
-
+        // Definindo as cores que vamos usar no jogo de xadrez
         Branca,
         Preta,
         Amarela,

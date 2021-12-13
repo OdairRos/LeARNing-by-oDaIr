@@ -7,13 +7,46 @@ namespace TerminalChess
     {
         static void Main(string[] args)
         {
-            Tabuleiro tabuleiro = new Tabuleiro(8, 8);
-            tabuleiro.ColocarPeca(new Torre(tabuleiro,Cor.Preta), new Posicao(0, 0));
-            tabuleiro.ColocarPeca(new Torre(tabuleiro, Cor.Preta), new Posicao(1,3));
-            tabuleiro.ColocarPeca(new Rei(tabuleiro, Cor.Preta), new Posicao(2, 4));
-            Tela.ImprimirTabuleiro(tabuleiro);
+            try
+            {
 
-          
+                PartidaDeXadrez partida = new PartidaDeXadrez();
+                while (!partida.terminada)
+                {
+                    try
+                    {
+                        Console.Clear();
+                        Tela.ImprimirPartida(partida);
+
+                        Console.Write("\nOrigem: ");
+                        Posicao origem = Tela.lerPosicaoXadrez().ToPosicao();
+                        partida.validarPosicaoOrigem(origem);
+
+                        bool[,] posicoesPossiveis = partida.tabu.peca(origem).movimentosPossiveis();
+
+                        Console.Clear();
+                        Tela.ImprimirTabuleiro(partida.tabu, posicoesPossiveis);
+
+                        Console.Write("\nDestino: ");
+                        Posicao destino = Tela.lerPosicaoXadrez().ToPosicao();
+                        partida.validarPosicaoDestino(origem, destino);
+
+                        partida.realizaJogada(origem, destino, partida);
+
+                    }
+                    catch (TabuleiroException e)
+                    {
+                        Console.WriteLine(e.Message);
+                        Console.ReadLine();
+                    }
+                }
+                Tela.ImprimirTabuleiro(partida.tabu);
+            }
+            catch (TabuleiroException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
         }
     }
 }
