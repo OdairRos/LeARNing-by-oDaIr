@@ -13,3 +13,4 @@ C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\Consol
 C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp48\obj\Debug\net5.0\ref\ConsoleApp48.dll
 C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp48\obj\Debug\net5.0\ConsoleApp48.pdb
 C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp48\obj\Debug\net5.0\ConsoleApp48.genruntimeconfig.cache
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp48\obj\Debug\net5.0\ConsoleApp48.csproj.AssemblyReference.cache

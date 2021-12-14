@@ -9,6 +9,8 @@ namespace tabuleiro
 
         private Peca[,] Pecas;
 
+
+
         /*        Construtor         */
         public Tabuleiro(int linhas, int colunas)
         {/*
@@ -22,6 +24,8 @@ namespace tabuleiro
             this.colunas = colunas;
             Pecas = new Peca[linhas, colunas];
         }
+
+
 
         /*        METODOS         */
         public Peca peca(int linha, int coluna)

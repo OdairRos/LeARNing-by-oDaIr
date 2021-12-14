@@ -47,8 +47,8 @@ namespace TerminalChess
         }
 
         public static bool estaEmXeque(Cor cor, PartidaDeXadrez partida)
-        {
-            Peca R = rei(cor, partida);
+        {// Nunca é verdadeira
+            Peca R = rei(inverteCor(cor), partida);
             if (R == null)
             {
                 throw new TabuleiroException($"Não tem rei da cor {cor} no tabuleiro");
@@ -56,14 +56,21 @@ namespace TerminalChess
             foreach (Peca x in partida.pecasEmJogo(cor))
             {
                 bool[,] mat = x.movimentosPossiveis();
-                if (mat[R.posicao.linha, R.posicao.coluna])
+                if (mat[R.posicao.linha, R.posicao.coluna] == true)
                 {
                     return true;
                 }
             }
             return false;
         }
-
+        private static Cor  inverteCor(Cor cor)
+        {
+            if (cor == Cor.Branca)
+                return Cor.Preta;
+            else
+                return Cor.Branca;   
+        }
+        
         public static void imprimirConjunto(HashSet<Peca> conjunto)
         {
             Console.Write("[");
