@@ -14,11 +14,17 @@ namespace ConsoleApp57.Entities
         public double raio { get; set; }
         public double PI { get; set; }
 
-        public Circle(double raio)
+        public Circle(double raio, Color color) : base()
         {
             this.raio = raio;
             PI = 3.14;
+            this.color = color;
         }
+
+        public Circle()
+        {
+        }
+
 
         public override double Area()
         {
@@ -31,3 +37,4 @@ namespace ConsoleApp57.Entities
         }
     }
 }
+ 

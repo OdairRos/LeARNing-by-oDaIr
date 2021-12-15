@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp57.Enums
 {
-    class Color
+    enum Color
     {
-        
+        Black, White
     }
 }

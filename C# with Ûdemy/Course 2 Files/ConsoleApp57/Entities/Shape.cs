@@ -12,5 +12,6 @@ namespace ConsoleApp57.Entities
         public Color color { get; set; }
 
         public abstract double Area();
+
     }
 }
