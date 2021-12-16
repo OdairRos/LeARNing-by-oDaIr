@@ -1,0 +1,15 @@
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\bin\Debug\net5.0\ConsoleApp76.exe
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\bin\Debug\net5.0\ConsoleApp76.deps.json
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\bin\Debug\net5.0\ConsoleApp76.runtimeconfig.json
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\bin\Debug\net5.0\ConsoleApp76.runtimeconfig.dev.json
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\bin\Debug\net5.0\ConsoleApp76.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\bin\Debug\net5.0\ref\ConsoleApp76.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\bin\Debug\net5.0\ConsoleApp76.pdb
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\obj\Debug\net5.0\ConsoleApp76.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\obj\Debug\net5.0\ConsoleApp76.AssemblyInfoInputs.cache
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\obj\Debug\net5.0\ConsoleApp76.AssemblyInfo.cs
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\obj\Debug\net5.0\ConsoleApp76.csproj.CoreCompileInputs.cache
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\obj\Debug\net5.0\ConsoleApp76.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\obj\Debug\net5.0\ref\ConsoleApp76.dll
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\obj\Debug\net5.0\ConsoleApp76.pdb
+C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp76\obj\Debug\net5.0\ConsoleApp76.genruntimeconfig.cache
