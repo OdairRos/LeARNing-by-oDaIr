@@ -3,6 +3,7 @@ using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using ConsoleApp80.Entities;
+using System.Globalization;
 namespace ConsoleApp80
 {
     class Program
@@ -27,7 +28,7 @@ namespace ConsoleApp80
 
         static void Main(string[] args)
         {
-            string Path = @"C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp80\File1.txt";
+            string Path = @"C:\Users\desenv07\Desktop\LeARNing by oDaIr\C# with Ûdemy\Course 2 Files\ConsoleApp80\in.txt";
             List<Product> list = new List<Product>();
 
             using (StreamReader sr = File.OpenText(Path))
@@ -35,7 +36,7 @@ namespace ConsoleApp80
                 while (!sr.EndOfStream)
                 {
                     string[] line = sr.ReadLine().Split(",");
-                    list.Add(new Product(line[0], double.Parse(line[1])));
+                    list.Add(new Product(line[0], double.Parse(line[1], CultureInfo.InvariantCulture)));
                 }
             }
 
@@ -44,8 +45,18 @@ namespace ConsoleApp80
                 .DefaultIfEmpty(0.0)
                 .Average();
 
+            Console.WriteLine($"Preço medio: {avg.ToString("F2",CultureInfo.InvariantCulture)}");
+
             var names = list
-                .Where(p => p.Price < avg);
+                .Where(p => p.Price < avg)
+                .OrderByDescending(p => p.Nome)
+                .Select(p => p.Nome)
+                .ToList();
+
+            foreach(string nome in names)
+            {
+                Print(nome);
+            }
         }
     }
 }
