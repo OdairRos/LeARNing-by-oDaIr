@@ -1,2 +1,2 @@
 # LeARNing-by-oDaIr
- Arquivos que eu crieim enquanto estava estudando na empresa Vision System de chapecó
+ Arquivos que eu criei enquanto estava estudando na empresa Vision System de chapecó
